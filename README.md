@@ -1,6 +1,6 @@
 # newproject
 
-A new Flutter project.
+Designed a Biometric app with authentication features, including fingerprint and Face ID recongnition.
 
 ## Getting Started
 
